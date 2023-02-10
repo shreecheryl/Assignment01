@@ -122,14 +122,9 @@
 // STEP 21
 // let x = 5
 // let y = 10
-// if (x > 3 && y < 11)
-    // console.log(true)
+// console.log(x > 3 && y < 11)
 
 // STEP 22
-// let x = 5
-// let y = 10
-// if (x === 3 || y != 10)
-    // console.log(true)
-// else
-    // console.log(false)
-    
+// let a = 5
+// let b = 10
+// console.log(a === 3 || b != 10)
